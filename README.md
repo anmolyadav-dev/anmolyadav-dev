@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 Currently diving deep in **Backend**
 - 💪 I'm good at **Next.js , React.js**
 - 👨‍💻 This is my portfolio website: [www.anmolyadav.dev](https://www.anmolyadav.dev)
 - 💬 Ask me about **Frontend**
