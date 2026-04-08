@@ -139,9 +139,13 @@ mindset   : "Build systems like a developer.
 ### ◈ DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-EE2B29?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-38A3A5?style=for-the-badge&logo=parrotsecurity&logoColor=white)
+![HackerOne](https://img.shields.io/badge/HackerOne-FFFFFF?style=for-the-badge&logo=hackerone&logoColor=black)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-051829?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 </div>
 
