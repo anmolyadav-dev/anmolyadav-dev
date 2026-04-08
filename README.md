@@ -27,7 +27,7 @@
 
 ---
 
-<img align="right" alt="Hacker Coding" width="370" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c421428427b85a625b3e9f72c1d98c35f70/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/>
+<img align="right" alt="Hacker Coding" width="370" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI1YTllODUzOWJlZmU5N2NjODJkMGIwNjhkMTBjZGEzZjA1MDlmMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif"/>
 
 ```zsh
 ┌──(anmol㉿kali)-[~/whoami]
@@ -151,8 +151,8 @@ mindset   : "Build systems like a developer.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anmolyadav-dev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolyadav-dev&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://readme-stats-eta.vercel.app/api?username=anmolyadav-dev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
+<img height="180em" src="https://readme-stats-eta.vercel.app/api/top-langs/?username=anmolyadav-dev&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
@@ -178,7 +178,7 @@ mindset   : "Build systems like a developer.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anmolyadav-dev&theme=matrix&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://profile-trophy.vercel.app/?username=anmolyadav-dev&theme=matrix&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
