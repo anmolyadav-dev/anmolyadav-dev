@@ -208,6 +208,6 @@ mindset   : "Build systems like a developer.
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1500&color=00FF41&center=true&vCenter=true&width=550&lines=%5B+EOF+%5D+—+See+you+in+the+codebase%2C+fellow+dev+%F0%9F%91%BE" alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1500&color=00FF41&center=true&vCenter=true&width=550&lines=%5B+EOF+%5D+%E2%80%94+See+you+in+the+codebase%2C+fellow+dev+%F0%9F%91%BE" alt="Footer" />
 
 </div>
